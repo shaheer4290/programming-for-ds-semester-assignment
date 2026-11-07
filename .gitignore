@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.docx
+*.pdf
+*.csv
+results.json
+execution_log.txt
+figures/
+.DS_Store
