@@ -1,4 +1,5 @@
 .venv/
+build_report.py
 __pycache__/
 *.docx
 *.pdf
